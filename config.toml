@@ -1,3 +1,7 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+BaseURL = "http://coderzh.github.io/hugo-pacman-theme/"
+LanguageCode = "zh-CN"
+HasCJKLanguage = true
+Title = "Hugo PacMan Theme Demo"
+Theme = "hugo-pacman-theme"
+pygmentsStyle = "default"
+pygmentsUseClasses = true
