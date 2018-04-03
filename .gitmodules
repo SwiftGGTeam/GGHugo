@@ -1,0 +1,3 @@
+[submodule "hugo-pacman-theme"]
+	path = hugo-pacman-theme
+	url = git@github.com:coderzh/hugo-pacman-theme.git
